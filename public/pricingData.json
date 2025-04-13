@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "title": "Basic",
+      "price": "$9/month",
+      "description": "Perfect for individuals just getting started.",
+      "features": [
+        "1 user",
+        "5GB storage",
+        "Basic support",
+        "Access to core features"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Pro",
+      "price": "$29/month",
+      "description": "Ideal for small teams and growing businesses.",
+      "features": [
+        "Up to 5 users",
+        "50GB storage",
+        "Priority email support",
+        "Advanced analytics",
+        "Customizable dashboard"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Enterprise",
+      "price": "$99/month",
+      "description": "Best for large teams and organizations.",
+      "features": [
+        "Unlimited users",
+        "1TB storage",
+        "24/7 phone & email support",
+        "Dedicated account manager",
+        "Integration with enterprise tools",
+        "Custom feature development"
+      ]
+    }
+  ]
