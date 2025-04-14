@@ -16,6 +16,7 @@
       "title": "Pro",
       "price": "$29/month",
       "description": "Ideal for small teams and growing businesses.",
+      "popular": true,
       "features": [
         "Up to 5 users",
         "50GB storage",

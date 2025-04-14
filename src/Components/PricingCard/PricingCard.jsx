@@ -5,7 +5,7 @@ const PricingCard = ({pricing}) => {
     const {title, price, description, features} = pricing;
 
     return (
-        <div className='flex flex-col border rounded-2xl bg-amber-600 p-4'>
+        <div className='flex flex-col border rounded-2xl mb-4 bg-amber-600 p-4'>
             {/* Card Head */}
             <div className='mb-5'>
             <h1 className="lg:text-7xl text-4xl">{title}</h1>
